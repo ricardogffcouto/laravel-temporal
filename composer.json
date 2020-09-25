@@ -10,7 +10,7 @@
     "homepage": "https://github.com/gazugafan/laravel-temporal",
     "license": "MIT",
     "require": {
-        "php" : ">=7.0.0",
+        "php" : ">=5.5.9",
         "illuminate/database": "^5.1",
         "illuminate/events": "^5.1",
         "doctrine/dbal": "^2.5"
